@@ -6,7 +6,7 @@ A simple script to URL-based API.
 
 ## Usage
 
-```shell
+```sh
 usage: getAPI.py [-h] [--url URL] [--method METHOD] [--params [PARAMS]] [--header [HEADER]]
 
 Get API response
